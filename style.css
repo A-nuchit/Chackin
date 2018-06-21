@@ -1,0 +1,44 @@
+  .bg-1 { 
+      background-color: #1abc9c;
+      color: #ffffff;
+      font-family: 'Prompt', sans-serif;
+  }
+  .border
+  {
+    padding: 5% 5% 5% 5%;
+    background: #fff;
+    box-shadow: 2px 5px 7px #70707070;
+    -webkit-border-radius: 6px 6px 30px 6px;
+    border-radius: 6px 6px 30px 6px;
+  }
+  .border_show
+  {
+    padding: 5% 5% 5% 5%;
+    background: #fff;
+    padding: 5% 5% 5% 5%;
+    background: #fff;
+    box-shadow: 2px 5px 7px #70707070;
+    word-wrap:break-word;
+  }
+  .container
+  {
+    padding-top: 10%; 
+  }
+  h2
+  {
+    color: #707070;
+  }
+  p{
+    color: #707070;
+  }
+    text_t{
+    color: #F40000;
+  }
+  name{
+    font-size: 25px;
+    color: #707070;
+  }
+  timepost{
+     font-size: 10px;
+     color: #707070;
+  }
